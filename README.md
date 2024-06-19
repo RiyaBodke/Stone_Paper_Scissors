@@ -10,7 +10,7 @@ Welcome to Stone Paper Scissors! This program allows users to play the classic S
 - Randomized computer choices 
 - Score tracking for multiple rounds
 - User-friendly console interface
-
+- Time delays for better gaming experience
 
 ## Requirements
 
@@ -24,6 +24,7 @@ Welcome to Stone Paper Scissors! This program allows users to play the classic S
   git clone https://github.com/RiyaBodke/Stone_Paper_Scissor_game
 ```
 or download the ZIP file and extract it.
+
 
 2. Navigate to the Project Directory:
 
