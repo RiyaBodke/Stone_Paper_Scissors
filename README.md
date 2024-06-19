@@ -43,6 +43,14 @@ or download the ZIP file and extract it.
 
 3. Round 2:
 
-
+<img width="389" alt="Round 2" src="https://github.com/RiyaBodke/Stone_Paper_Scissor_game/assets/114491248/84e76465-9b41-4190-b5f7-0cd86022213a">
 
 4. Round 3:
+
+<img width="396" alt="Round 3" src="https://github.com/RiyaBodke/Stone_Paper_Scissor_game/assets/114491248/05dd0750-88b9-4d11-a404-ae31f8f73d49">
+
+
+5. Score:
+
+<img width="468" alt="Score" src="https://github.com/RiyaBodke/Stone_Paper_Scissor_game/assets/114491248/c47cb9a2-afea-404b-80a0-d31cf63f6e70">
+
