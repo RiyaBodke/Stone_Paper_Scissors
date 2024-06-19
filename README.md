@@ -11,6 +11,7 @@ Welcome to Stone Paper Scissors! This program allows users to play the classic S
 - Score tracking for multiple rounds
 - User-friendly console interface
 - Time delays for better gaming experience
+- Ascii art for choice visualization
 
 ## Requirements
 
