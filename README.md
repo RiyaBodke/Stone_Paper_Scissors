@@ -39,7 +39,7 @@ or download the ZIP file and extract it.
 
 2. Round 1:
 
-
+<img width="444" alt="Round 1" src="https://github.com/RiyaBodke/Stone_Paper_Scissor_game/assets/114491248/791fddda-6e3c-4fdc-bdc7-de342b707ab4">
 
 3. Round 2:
 
