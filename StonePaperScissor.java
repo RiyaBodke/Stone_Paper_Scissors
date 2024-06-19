@@ -1,4 +1,3 @@
-package stp;
 import java.util.ArrayList; //To create and manipulate arraylists
 import java.util.Collections; //To import methods to handle collections in Java
 import java.util.List; //To work with lists
@@ -197,3 +196,4 @@ public class StonePaperScissor {
 
     }
 }
+
