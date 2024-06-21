@@ -50,8 +50,21 @@ or download the ZIP file and extract it.
 
 3. Follow the on-screen instructions:
 
-- Choose an option from 1-3 to select your shape (stone, paper or scissor). Entering any number apart from 1 to 3 will result in an error and the program will prompt you to choose a valid option.
-- Do the same for all three rounds.
+- Choose an option from 1-3 to select your shape (stone, paper or scissor). Entering any number apart from 1 to 3 will result in an error and the program will prompt you to choose a valid option
+- Do the same for all three rounds
+
+## Rules
+
+1. The rules are straightforward:
+
+- Rock beats Scissors
+- Scissors beat Paper
+- Paper beats Rock
+- If both are the same, its a tie
+
+2. An updated score board will be displayed in the end
+
+3. Best of 3 rounds will be selected as the winner
 
 ## Screenshots
 
