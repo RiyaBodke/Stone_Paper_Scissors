@@ -22,7 +22,7 @@ Welcome to Stone Paper Scissors! This program allows users to play the classic S
 1. Download or clone the repository:
 
 ```sh
-  git clone https://github.com/RiyaBodke/Stone_Paper_Scissor_game
+  git clone https://github.com/RiyaBodke/Stone_Paper_Scissors
 ```
 or download the ZIP file and extract it.
 
@@ -30,7 +30,7 @@ or download the ZIP file and extract it.
 2. Navigate to the Project Directory:
 
 ```sh
-  cd StonePaperScissors
+  cd Stone_Paper_Scissors
 ```
 
 ## Screenshots
