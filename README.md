@@ -17,6 +17,7 @@ Welcome to Stone Paper Scissors! This program allows users to play the classic S
 
 - JDK 8 or higher
 - Text editor or IDE for Java Development
+  
 ## Installation
 
 1. Download or clone the repository:
@@ -32,6 +33,25 @@ or download the ZIP file and extract it.
 ```sh
   cd Stone_Paper_Scissors
 ```
+
+## Usage
+
+1. Compile the Program:
+
+```sh
+   javac Main.java
+```
+
+2. Run the Program:
+
+```sh
+   java Main
+```
+
+3. Follow the on-screen instructions:
+
+- Choose an option from 1-3 to select your shape (stone, paper or scissor). Entering any number apart from 1 to 3 will result in an error and the program will prompt you to choose a valid option.
+- Do the same for all three rounds.
 
 ## Screenshots
 
