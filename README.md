@@ -6,7 +6,7 @@ Welcome to Stone Paper Scissors! This program allows users to play the classic S
 
 ## Features
 
-- User vs Computer gameplay
+- User vs Computer gameplay.
 - Randomized computer choices 
 - Score tracking for multiple rounds
 - User-friendly console interface
